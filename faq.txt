@@ -1,0 +1,9 @@
+<< The project has concepts-features such as.
+The underlying factors of shell creation. 
+Handle "cd" command
+Splitting input into arguments in the format (command -arg1 -arg2)
+Starting processes in the background (&) 
+Redirection handler (< and >)
+Command history saver 
+Load command history
+The file can be supplemented with >>
